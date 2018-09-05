@@ -3,5 +3,65 @@
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23738.m3u8:
 #EXTINF:BET
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/804.m3u8:
-#EXTINF:10.00000,
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/20180829T155232/master1/00033/master1_00438.ts
+#EXTINF:TLC
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/33812.m3u8: 
+#EXTINF:Showtime
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23618.m3u8:
+#EXTINF:ABC Family
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27344.m3u8:
+#EXTINF:Lifetime Movie Network
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27329.m3u8:
+#EXTINF:Bravo TV
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14567.m3u8:
+#EXTINF:CBS
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_qpirqkcj/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:CMT
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27368.m3u8: 
+#EXTINF:TBS
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27309.m3u8: 
+#EXTINF:ABC EAST
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_gesowtz8/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:FXX
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27342.m3u8: 
+#EXTINF:USA Network HD
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/21080.m3u8:
+#EXTINF:Disney Channel
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27360.m3u8: 
+#EXTINF:Comedy Central HD
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27366.m3u8:
+#EXTINF:Disney Junior
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27359.m3u8:
+#EXTINF:Cattoon Network
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14287.m3u8:
+#EXTINF:own
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27319.m3u8:
+#EXTINF:HLN
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14298.m3u8:
+#EXTINF:Cinemax
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23625.m3u8:
+#EXTINF:E! Enterainment TV
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23716.m3u8:
+#EXTINF:AMC
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14296.m3u8
+#EXTINF:HBO LIVE?
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27338.m3u8
+#EXTINF:HBO
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27338.m3u8
+#EXTINF:Starz HD
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/35954.m3u8
+#EXTINF:SHOWtime 2
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27317.m3u8
+#EXTINF:HGTV
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14348.m3u8
+#EXTINF:BLOOMBERG USA
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:CNBC HD USA
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14284.m3u8:
+#EXTINF:NBC HD
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_5ma8vp87/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:ABC HD
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_gesowtz8/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:CNN
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27367.m3u8
+
+
