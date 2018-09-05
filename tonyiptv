@@ -3,3 +3,5 @@
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23738.m3u8:
 #EXTINF:BET
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/804.m3u8:
+#EXTINF:10.00000,
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/20180829T155232/master1/00033/master1_00438.ts
