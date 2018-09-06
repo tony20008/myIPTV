@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, CVMTV
+https://na-us-ne6.secdn.net/iddigital-channel/play/smil:output.smil/chunklist_w1647331980_b2000000_t64SEQ=.m3u8
 #EXTINF:-1,TNT
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23738.m3u8:
 #EXTINF:-1, BET
