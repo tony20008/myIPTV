@@ -1,7 +1,91 @@
 #EXTM3U
+#EXTINF:-1, CVMTV
+https://na-us-ne6.secdn.net/iddigital-channel/play/smil:output.smil/chunklist_w1647331980_b2000000_t64SEQ=.m3u8
+#EXTINF:-1,TNT
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23738.m3u8:
+#EXTINF:-1, BET
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/804.m3u8:
+#EXTINF:-1, TLC
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/33812.m3u8: 
+#EXTINF:-1, Showtime
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23618.m3u8:
+#EXTINF:-1, ABC Family
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27344.m3u8:
+#EXTINF:-1, Lifetime Movie Network
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27329.m3u8:
+#EXTINF:-1, Bravo TV
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14567.m3u8:
+#EXTINF:-1, CBS
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_qpirqkcj/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:-1, CMT
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27368.m3u8: 
+#EXTINF:-1, TBS
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27309.m3u8: 
+#EXTINF:-1, ABC EAST
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_gesowtz8/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:-1, FXX
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27342.m3u8: 
+#EXTINF:-1, USA Network HD
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/21080.m3u8:
+#EXTINF:-1, Disney Channel
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27360.m3u8: 
+#EXTINF:-1, Comedy Central HD
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27366.m3u8:
+#EXTINF:-1, Disney Junior
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27359.m3u8:
+#EXTINF:-1, Cattoon Network
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14287.m3u8:
+#EXTINF:-1, own
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27319.m3u8:
+#EXTINF:-1, HLN
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14298.m3u8:
+#EXTINF:-1, Cinemax
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23625.m3u8:
+#EXTINF:-1, E! Enterainment TV
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/23716.m3u8:
+#EXTINF:-1, AMC
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14296.m3u8
+#EXTINF:-1, HBO LIVE?
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27338.m3u8
+#EXTINF:-1, HBO
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27338.m3u8
+#EXTINF:-1, Starz HD
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/35954.m3u8
+#EXTINF:-1, SHOWtime 2
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27317.m3u8
+#EXTINF:-1, HGTV
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14348.m3u8
+#EXTINF:-1, BLOOMBERG USA
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1, CNBC HD USA
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14284.m3u8:
+#EXTINF:-1, NBC HD
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_5ma8vp87/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:-1, ABC HD
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_gesowtz8/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:-1, CNN
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27367.m3u8
+#EXTINF:-1 TRU TV
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27306.m3u8:
+#EXTINF:-1 MTV USA
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27327.m3u8: 
+#EXTINF:-1 The History Channel
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27332.m3u8:
+#EXTINF:-1 TBS HD
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27309.m3u8: 
+#EXTINF:-1 Food Network
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27350.m3u8:
+#EXTINF:-1 Golf Channel
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8:
+#EXTINF:-1, Animal Planey HD
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27378.m3u8: 
+#EXTINF:-1, CW
+https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_oggu1dbc/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
 #EXTINF:-1, CANLI YAYIN Turkey 
 https://stream-02.nyc.dailymotion.com/dm/3/x648u9s/live-2.m3u8
 #EXTINF:-1, TRT 1 HD Turkey 
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,TSN 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=15
+#EXTINF:-1,SPORTS TV TURKEY
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,TR: Beyaz TV (TR) TURKEY
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/1376.ts
