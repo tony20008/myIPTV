@@ -1,11 +1,3 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:153625293
-#EXTINF:10.000,
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/segment153625293_1500_av-p.ts?sd=10&rebase=on
-#EXTINF:10.000,
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/segment153625294_1500_av-p.ts?sd=10&rebase=on
-#EXTINF:10.000,
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/segment153625295_1500_av-p.ts?sd=10&rebase=on
+#EXTINF:-1,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&amp;rebase=on
