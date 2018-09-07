@@ -83,6 +83,16 @@ http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8:
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27378.m3u8: 
 #EXTINF:-1, CW
 https://cdnapisec.kaltura.com/p/2306121/sp/230612100/playManifest/entryId/1_oggu1dbc/format/applehttp/protocol/https/uiConfId/40041981/a.m3u8:
+#EXTINF:-1,US: TSN 5 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3301.ts
+#EXTINF:-1,US: TSN 4 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3300.ts
+#EXTINF:-1,US: TSN 3 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3299.ts
+#EXTINF:-1,US: TSN 2 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3298.ts
+#EXTINF:-1,US: TSN 1 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/3297.ts
 #EXTINF:-1, CANLI YAYIN Turkey 
 https://stream-02.nyc.dailymotion.com/dm/3/x648u9s/live-2.m3u8
 #EXTINF:-1, TRT 1 HD Turkey 
