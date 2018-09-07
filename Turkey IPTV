@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1, CANLI YAYIN Turkey 
+https://stream-02.nyc.dailymotion.com/dm/3/x648u9s/live-2.m3u8
+#EXTINF:-1, TRT 1 HD Turkey 
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,SPORTS TV TURKEY
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,TR: 24 TV
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/5452.ts
+#EXTINF:-1,TR: A Haber 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6689.ts
+#EXTINF:-1,TR: A Spor 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6691.ts
+#EXTINF:-1,TR: A2 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6688.ts
+#EXTINF:-1,TR: Aksu TV 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/5453.ts
+#EXTINF:-1,TR: Animal Planet 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6692.ts
+#EXTINF:-1,TR: ATV Avrupa 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6693.ts
+#EXTINF:-1,TR: ATV HD 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/1377.ts 
+#EXTINF:-1,TR: BABY TV 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6694.ts 
+#EXTINF:-1,TR: BBC Earth 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6695.ts 
+#EXTINF:-1,TR: Belgesel 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6756.ts 
+#EXTINF:-1,TR: BENGUTURK TV 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/3545.ts 
+#EXTINF:-1,TR: Beyaz TV (TR) 
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/1376.ts
