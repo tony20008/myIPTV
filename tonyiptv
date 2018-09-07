@@ -33,6 +33,8 @@ http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27360.m3u8:
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27366.m3u8:
 #EXTINF:-1, Disney Junior
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27359.m3u8:
+#EXTINF:-1, Nick Jr.
+http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/27321.m3u8: 
 #EXTINF:-1, Cattoon Network
 http://streams.tvxweb.org:5196/live/Middleware1/88cPJ8ibEY/14287.m3u8:
 #EXTINF:-1, own
