@@ -1,0 +1,358 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(AF) Afghanistan",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AF) Afghanistan",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AF) Afghanistan",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AF) Afghanistan",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AF) Afghanistan",AL MAAREF | SD (AF)
+http://almaareftv.com:1935/live/12/playlist.m3u8
+#EXTINF:0 group-title="(AF) Afghanistan",AL WAAD | SD (AF)
+http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",HAYAT 2 EGYPT | SD (AL)
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
+#EXTINF:0 group-title="(AL) Albania",TANASUH TV LIBYA | SD (AL)
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH | SD (AR)
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH | SD (AR)
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+#EXTINF:0 group-title="(AR) Arabia",HIDABROOT TV | SD (AR)
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:0 group-title="(AR) Arabia",IQRAA | SD (AR)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KABBALAH FOR THE PEOPLE | SD (AR)
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MAKKAH TV | SD (AR)
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MUSAYOF | SD (AR)
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(ARG) Argentina",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(ARG) Argentina",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(ARG) Argentina",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(ARG) Argentina",TV MANA | SD (ARG)
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(BE) Belgium",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(BE) Belgium",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BE) Belgium",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BE) Belgium",THE LIGHT TV NETHERLANDS | SD (BE)
+http://54.38.193.109/btltv.m3u8
+
+#EXTINF:0 group-title="(CA) Canada",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(CA) Canada",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(CA) Canada",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CA) Canada",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CA) Canada",MIRACLE CHANNEL | SD (CA)
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+#EXTINF:0 group-title="(CA) Canada",SALT AND LIGHT TV | SD (CA)
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+
+#EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",KINGDOM SAT | SD (FR)
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",HOPE CHANNEL | SD (DE)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22102.m3u8
+#EXTINF:0 group-title="(DE) Germany",HOPE CHANNEL | SD (DE)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22102.m3u8
+#EXTINF:0 group-title="(DE) Germany",SANTUARIO FATIMA PORTUGAL | SD (DE)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:0 group-title="(DE) Germany",SWAMIJI TV | SD (DE)
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
+
+#EXTINF:0 group-title="(IN) India",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IN) India",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IN) India",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IN) India",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IN) India",HOLY GOD TV ASIA | SD (IN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18407.m3u8
+#EXTINF:0 group-title="(IN) India",HOPE CHANNEL | SD (IN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18402.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",PADRE PIO TV | SD (IT)
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
+#EXTINF:0 group-title="(IT) Italy",TV 2000 | SD (IT)
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",COMUNION TV | SD (MX)
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:0 group-title="(MX) Mexico",MESIAS TV | SD (MX)
+http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8
+#EXTINF:0 group-title="(MX) Mexico",MONTE MARIA | SD (MX)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",HOPE CHANNEL | SD (PL)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22414.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",APARECIDA | SD (PT)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",FOZ TV | SD (PT)
+http://gw01.7idi.com:8087/hls/foztv.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SOBRENATURAL TV | SD (PT)
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV ARCA DA ALIANCA | SD (PT)
+http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV BETEL | SD (PT)
+http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV LOUVAR | SD (PT)
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TV VERDADE | SD (PT)
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RU) Russia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RU) Russia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RU) Russia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RU) Russia",HOPE CHANNEL | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9105.m3u8
+#EXTINF:0 group-title="(RU) Russia",HOPE TV | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18451.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",HOPE CHANNEL | SD (SE)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22813.m3u8
+
+#EXTINF:0 group-title="(CH) Switzerland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(CH) Switzerland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(CH) Switzerland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CH) Switzerland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CH) Switzerland",HOPE TV | SD (CH)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22242.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",SEMERKAND | HD (TR)
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT DIYANET | SD (TR)
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",CATHOLIC TV | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7781.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CATHOLIC TV | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7781.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOD CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11889.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HILLSONG | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11875.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ISLAM CHANNEL URDU | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/14144.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SWAMIJI TV | SD (UK)
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/chunklist_w758952533_b2200000.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",BETTER HEALTH | SD (US)
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",BETTER LIFE | SD (US)
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",BETTER NATURE | SD (US)
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",BIBLE EXPLORATIONS | SD (US)
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",CASCADE HILLS CHURCH | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18908.m3u8
+#EXTINF:0 group-title="(US) United States",CASCADE HILLS CHURCH | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18908.m3u8
+#EXTINF:0 group-title="(US) United States",CATHOLIC LIFE TV | SD (US)
+http://origin5-edge1.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/chunklist.m3u8
+#EXTINF:0 group-title="(US) United States",CATHOLIC TV | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18918.m3u8
+#EXTINF:0 group-title="(US) United States",CATHOLIC TV | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18918.m3u8
+#EXTINF:0 group-title="(US) United States",CHRISTIAN TELEVISION NETWORK | SD (US)
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+#EXTINF:0 group-title="(US) United States",CHRISTIAN TELEVISION NETWORK ES | SD (US)
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",DIVINE VISION NETWORK | SD (US)
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:0 group-title="(US) United States",ESPERANZA TV | SD (US)
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",EXTREMA TV | SD (US)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",FAITH AND LIFE TV | SD (US)
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",GC CHURCH TV | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18871.m3u8
+#EXTINF:0 group-title="(US) United States",GC CHURCH TV | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18871.m3u8
+#EXTINF:0 group-title="(US) United States",GEB | SD (US)
+http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
+#EXTINF:0 group-title="(US) United States",GOD TV | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11526.m3u8
+#EXTINF:0 group-title="(US) United States",GOD TV | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11526.m3u8
+#EXTINF:0 group-title="(US) United States",GOOD LIFE 45 | SD (US)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",HISCHANNEL | SD (US)
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="(US) United States",HOPE CHANNEL | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7793.m3u8
+#EXTINF:0 group-title="(US) United States",HOPE CHANNEL | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7793.m3u8
+#EXTINF:0 group-title="(US) United States",HOUSE OF YAHWEH | SD (US)
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+#EXTINF:0 group-title="(US) United States",JEWISH BROADCASTING SERVICE | SD (US)
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:0 group-title="(US) United States",JEWISH LIFE TV | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9984.m3u8
+#EXTINF:0 group-title="(US) United States",JEWISH LIFE TV | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9984.m3u8
+#EXTINF:0 group-title="(US) United States",JRES TV ES | SD (US)
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+#EXTINF:0 group-title="(US) United States",LESEA BROADCASTING NETWORK | SD (US)
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
+#EXTINF:0 group-title="(US) United States",LIFECHURCH TV | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20268.m3u8
+#EXTINF:0 group-title="(US) United States",LIFECHURCH TV | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20268.m3u8
+#EXTINF:0 group-title="(US) United States",LIFEVISION TV | SD (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",NRB NETWORK | SD (US)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",SBN PT | SD (US)
+http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
+#EXTINF:0 group-title="(US) United States",SPIRIT TV | SD (US)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",TELEVISION ESNE | SD (US)
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
+#EXTINF:0 group-title="(US) United States",VIDA MEJOR | SD (US)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",WGGS-TV | SD (US)
+https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",HARVEST TV USA | SD (WW)
+http://media1.lesea.com:1935/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:0 group-title="(WW) World Wide",UK@ FAITH TV | SD (WW)
+http://188.93.238.184:8000/live/ryan/ryan/11360.m3u8
