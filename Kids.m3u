@@ -1,0 +1,467 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(AF) Afghanistan",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AF) Afghanistan",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AF) Afghanistan",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AF) Afghanistan",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AF) Afghanistan",AAA FAMILY | SD (AF)
+http://sw.fannan.se:8000/live/zizo18040/54544452/10620.m3u8
+#EXTINF:0 group-title="(AF) Afghanistan",GEM JUNIOR | SD (AF)
+http://sw.fannan.se:8000/live/zizo18040/54544452/10607.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",JUNIOR TV | SD (AL)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/813.m3u8
+#EXTINF:0 group-title="(AL) Albania",JUNIOR TV | SD (AL)
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/2238.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD KIDS | SD (AR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10677.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BOX OFFICE KIDS | SD (AR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/25083.m3u8
+#EXTINF:0 group-title="(AR) Arabia",CARTOON NETWORK | SD (AR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4809.m3u8
+#EXTINF:0 group-title="(AR) Arabia",JEEM-CARTOONARABIA | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6970.m3u8
+#EXTINF:0 group-title="(AR) Arabia",JEEM-CARTOONARABIA | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/6970.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS | HD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/6977.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS AJYAL TV | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15379.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS AJYAL TV | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15379.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS AL MAJD | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15380.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS AL MAJD | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15380.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS KARAMESH | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15382.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS KARAMESH | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15382.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS SPACETOON | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15386.m3u8
+#EXTINF:0 group-title="(AR) Arabia",KIDS SPACETOON | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15386.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MAJID KIDS TV DUBAI | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15441.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MAJID KIDS TV DUBAI | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15441.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NAT KIDS LOCAL | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20362.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NAT KIDS LOCAL | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20362.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE FAMILY | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6944.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE FAMILY | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/6944.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE FAMILY | SD (AR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10686.m3u8
+#EXTINF:0 group-title="(AR) Arabia",PRIMAFILA 5/6 LIVE BABY DRIVER | SD (AR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/20690.m3u8
+#EXTINF:0 group-title="(AR) Arabia",SEMSEM KIDS | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6950.m3u8
+#EXTINF:0 group-title="(AR) Arabia",TOYOR BABY | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/9504.m3u8
+#EXTINF:0 group-title="(AR) Arabia",TOYOR BABY | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/9504.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(BG) Bulgaria",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(BG) Bulgaria",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BG) Bulgaria",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA FAMILY | SD (BG)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/633.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA FAMILY | SD (BG)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2247.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",DISNEY CHANNEL | SD (BG)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/277.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",DISNEY CHANNEL | SD (BG)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/277.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",NICK JR | SD (BG)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4390.m3u8
+
+#EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",BOOMERANG | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3162.m3u8
+#EXTINF:0 group-title="(FR) France",BOOMERANG | SD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1157.m3u8
+#EXTINF:0 group-title="(FR) France",BOOMERANG | SD (FR)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/140.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL FAMILY | HD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/742.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL FAMILY | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/465.m3u8
+#EXTINF:0 group-title="(FR) France",CARTOON NETWORK | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3157.m3u8
+#EXTINF:0 group-title="(FR) France",CARTOON NETWORK | SD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/740.m3u8
+#EXTINF:0 group-title="(FR) France",CARTOON NETWORK | SD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9377.m3u8
+#EXTINF:0 group-title="(FR) France",DISNEY JUNIOR | HD (FR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3158.m3u8
+#EXTINF:0 group-title="(FR) France",DISNEY JUNIOR | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3158.m3u8
+#EXTINF:0 group-title="(FR) France",DISNEY JUNIOR | SD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/736.m3u8
+#EXTINF:0 group-title="(FR) France",DISNEY JUNIOR | SD (FR)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/569.m3u8
+#EXTINF:0 group-title="(FR) France",DISNEY XD | HD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1957.m3u8
+#EXTINF:0 group-title="(FR) France",DISNEY XD | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3165.m3u8
+#EXTINF:0 group-title="(FR) France",NICKELODEON | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3159.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",CARTOON NETWORK | SD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1993.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY BOOMERANG | SD (DE)
+http://163.172.62.63:8000/live/fazeel/fazeel/1422.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY CHANNEL | HD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/296.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | HD (DE)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15162.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | HD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1989.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | HD (DE)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15162.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | SD (DE)
+http://163.172.62.63:8000/live/fazeel/fazeel/1592.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY XD | HD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/464.m3u8
+#EXTINF:0 group-title="(DE) Germany",FAMILY TV | SD (DE)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14147.m3u8
+#EXTINF:0 group-title="(DE) Germany",FAMILY TV | SD (DE)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14147.m3u8
+#EXTINF:0 group-title="(DE) Germany",NICKELODEON | SD (DE)
+http://163.172.62.63:8000/live/fazeel/fazeel/1435.m3u8
+#EXTINF:0 group-title="(DE) Germany",NICKELODEON | SD (DE)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/427.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY FAMILY | SD (DE)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9478.m3u8
+
+#EXTINF:0 group-title="(GR) Greece",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",LIFE KIDS NETWORK | SD (GR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20198.m3u8
+#EXTINF:0 group-title="(GR) Greece",LIFE KIDS NETWORK | SD (GR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20198.m3u8
+#EXTINF:0 group-title="(GR) Greece",NICKELODEON | SD (GR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/11034.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",CARTOON NETWORK | SD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8107.m3u8
+#EXTINF:0 group-title="(IT) Italy",CARTOON NETWORK | SD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8107.m3u8
+#EXTINF:0 group-title="(IT) Italy",CARTOON NETWORK | SD (IT)
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/17316.m3u8
+#EXTINF:0 group-title="(IT) Italy",CARTOONITO | SD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2996.m3u8
+#EXTINF:0 group-title="(IT) Italy",CARTOONITO | SD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2996.m3u8
+#EXTINF:0 group-title="(IT) Italy",DISNEY CHANNEL 2 | SD (IT)
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/17318.m3u8
+#EXTINF:0 group-title="(IT) Italy",DISNEY JUNIOR | SD (IT)
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/17320.m3u8
+#EXTINF:0 group-title="(IT) Italy",DISNEY XD | SD (IT)
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/17319.m3u8
+#EXTINF:0 group-title="(IT) Italy",FOX ANIMATION | SD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8130.m3u8
+#EXTINF:0 group-title="(IT) Italy",FOX ANIMATION | SD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8130.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM DISNEY CHANNEL | SD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8108.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM DISNEY CHANNEL | SD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8108.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY PREMIUM | SD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2987.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY PREMIUM | SD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2987.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",DISCOVERY KIDS | SD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12913.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",BABY TV | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7877.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FILM 1 COMEDY AND KIDS | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7885.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FILM 1 COMEDY AND KIDS | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7885.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",NICKELODEON | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7883.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",NICKELODEON | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7883.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",NICKELODEON | SD (NL)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/547.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",CANAL FAMILY | HD (PL)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4698.m3u8
+#EXTINF:0 group-title="(PL) Poland",DISNEY JR | SD (PL)
+http://titiroq.xyz:25461/live/123412341234/123412341234/23279.m3u8
+#EXTINF:0 group-title="(PL) Poland",NICK JR | SD (PL)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4703.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",SIC KIDS | SD (PT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2352.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",DISNEY CHANNEL | SD (RO)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3064.m3u8
+#EXTINF:0 group-title="(RO) Romania",DISNEY JUNIOR | SD (RO)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4478.m3u8
+#EXTINF:0 group-title="(RO) Romania",NICKELODEON | SD (RO)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4484.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RU) Russia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RU) Russia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RU) Russia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RU) Russia",CARTOON | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18428.m3u8
+#EXTINF:0 group-title="(RU) Russia",DISNEY CHANNEL | SD (RU)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4660.m3u8
+#EXTINF:0 group-title="(RU) Russia",NICK | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21095.m3u8
+#EXTINF:0 group-title="(RU) Russia",NICK JUNIOR | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18449.m3u8
+#EXTINF:0 group-title="(RU) Russia",NICKELODEON | HD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9187.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",BABY TV | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/2301.m3u8
+#EXTINF:0 group-title="(SP) Spain",CARTOON NETWORK | SD (SP)
+http://titiroq.xyz:25461/live/123412341234/123412341234/6402.m3u8
+#EXTINF:0 group-title="(SP) Spain",DISNEY CHANNEL | HD (SP)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3141.m3u8
+#EXTINF:0 group-title="(SP) Spain",DISNEY CHANNEL | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/2292.m3u8
+#EXTINF:0 group-title="(SP) Spain",DISNEY JR | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/2291.m3u8
+#EXTINF:0 group-title="(SP) Spain",DISNEY JUNIOR | SD (SP)
+http://163.172.62.63:8000/live/fazeel/fazeel/2044.m3u8
+#EXTINF:0 group-title="(SP) Spain",DISNEY XD | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/2290.m3u8
+#EXTINF:0 group-title="(SP) Spain",DISNEY XD | SD (SP)
+http://titiroq.xyz:25461/live/123412341234/123412341234/6404.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR DISNEY | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/10979.m3u8
+#EXTINF:0 group-title="(SP) Spain",NICK JR | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/2280.m3u8
+#EXTINF:0 group-title="(SP) Spain",NICK JR | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/10948.m3u8
+#EXTINF:0 group-title="(SP) Spain",NICKELODEON | HD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/10870.m3u8
+#EXTINF:0 group-title="(SP) Spain",NICKELODEON | HD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/10947.m3u8
+#EXTINF:0 group-title="(SP) Spain",NICKELODEON | SD (SP)
+http://titiroq.xyz:25461/live/123412341234/123412341234/6401.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",CARTOON NETWORK | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/3910.m3u8
+#EXTINF:0 group-title="(SE) Sweden",DISNEY CHANNEL | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1663.m3u8
+#EXTINF:0 group-title="(SE) Sweden",NICK JR | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/3911.m3u8
+#EXTINF:0 group-title="(SE) Sweden",NICKELODEON | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1664.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FILM FAMILY | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/327.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FILM FAMILY | SD (SE)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2499.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",CARTOON NETWORK | SD (TR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/229.m3u8
+#EXTINF:0 group-title="(TR) Turkey",CARTOON NETWORK | SD (TR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/229.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DISNEY CHANNEL | SD (TR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/227.m3u8
+#EXTINF:0 group-title="(TR) Turkey",DISNEY CHANNEL | SD (TR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/227.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NICKELODEON | HD (TR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/6185.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",ARY FAMILY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/24462.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BABY TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11383.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BABY TV | SD (UK)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2203.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BABY TV | SD (UK)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2203.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOOMERANG | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/32934.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOOMERANG | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37439.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CARTOONITO | SD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4729.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBEEBIES | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11387.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY CHANNEL | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12652.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11380.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JNR | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12651.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JNR | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11388.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JR | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1710.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JUNIOR | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/628.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY XD | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11381.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NICKTOONS | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11391.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",CARTOON | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.m3u8
+#EXTINF:0 group-title="(US) United States",CARTOON | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7806.m3u8
+#EXTINF:0 group-title="(US) United States",HBO FAMILY | HD (US)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2427.m3u8
+#EXTINF:0 group-title="(US) United States",NICKELODEN | HD (US)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2435.m3u8
+#EXTINF:0 group-title="(US) United States",NICKELODEON | HD (US)
+http://163.172.62.63:8000/live/fazeel/fazeel/3327.m3u8
+#EXTINF:0 group-title="(US) United States",TCT KIDS | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.m3u8
+#EXTINF:0 group-title="(US) United States",TCT KIDS | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21576.m3u8
+#EXTINF:0 group-title="(US) United States",VIP EX-YU | SD (US)
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16169.m3u8

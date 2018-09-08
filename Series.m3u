@@ -1,0 +1,81 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",CANAL SERIES | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/468.m3u8
+#EXTINF:0 group-title="(FR) France",SEASON | SD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3178.m3u8
+#EXTINF:0 group-title="(FR) France",SERIE CLUB | SD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/724.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | HD (DE)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8078.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | HD (DE)
+http://54.36.168.168:8000/live/zizo18040/54544452/8078.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | SD (DE)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8077.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | SD (DE)
+http://54.36.168.168:8000/live/zizo18040/54544452/8077.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | SD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/267.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",CANAL SERIALE | HD (PL)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4697.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",ATRESERIES | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/2312.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL SERIES | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/2319.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR SERIES | HD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/10974.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR SERIES | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/10975.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR SERIES XTRA | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/2310.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR SERIESXTRAHD | SD (SP)
+http://elmasteriptv.com:8000/live/maya/maya/10973.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",C MORE SERIES | HD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/337.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT SERIES | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/322.m3u8
