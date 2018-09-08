@@ -1,78 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs IPTV
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INFO",+ Like Us!
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INFO",> Free Entertainment
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INFO",= Sep.07.2018
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1, CVMTV
 https://na-us-ne6.secdn.net/iddigital-channel/play/smil:output.smil/chunklist_w1647331980_b2000000_t64SEQ=.m3u8
-#EXTINF:0 tvg-id="avi" group-title="LABEL",~ Jamaica TV ~
-http://www.lengua.com/anthems/Jamaica.mp3
-#EXTINF:0 tvg-id="avi" group-title="LABEL",~ USA TV ~
-http://www.lengua.com/anthems/USA.mp3
-#EXTINF:0 tvg-id="avi" group-title="LABEL",~ Canada TV ~
-http://www.lengua.com/anthems/Canada.mp3
-#EXTINF:0 tvg-id="avi" group-title="LABEL",~ Cameroon TV ~
-http://www.lengua.com/anthems/Cameroon.mp3
-#EXTINF:0 tvg-id="ext" group-title="LABEL",~ USA Local News ~
-http://167.88.154.169/wnycfm-tunein
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Live Stream
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Black Jesus
-http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Home Movies
-https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Metalocalypse
-http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Mr. Pickles
-http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Rick and Morty
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Squidbillies
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Superjail!
-https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] The Eric Andre Show
-http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Tim and Eric
-http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Williams Stream
-http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - 13 Reasons Why
-http://vapi.vaders.tv/play/79408.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Alien Movies
-http://vapi.vaders.tv/play/79459.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Batman The Animated Series
-http://vapi.vaders.tv/play/79440.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Big Bang Theory
-http://vapi.vaders.tv/play/79379.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Black Mirror
-http://vapi.vaders.tv/play/79380.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Breaking Bad
-http://vapi.vaders.tv/play/79374.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Doc McStuffins
-http://vapi.vaders.tv/play/79378.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Fairly Odd Parents
-http://vapi.vaders.tv/play/79446.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Friends
-http://vapi.vaders.tv/play/79392.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Fraiser
-http://vapi.vaders.tv/play/79381.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Game of Thrones
-http://vapi.vaders.tv/play/79382.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Grey's Anatomy
-http://vapi.vaders.tv/play/79391.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",30A TV
-http://30a-tv.com/my999.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 #EXTINF:0 tvg-id="AE.ca" group-title="USA",A&E
 http://vapi.vaders.tv/play/2463.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
 #EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-1)
@@ -607,3 +537,56 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CANADA",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Live Stream
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Home Movies
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Metalocalypse
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - 13 Reasons Why
+http://vapi.vaders.tv/play/79408.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Alien Movies
+http://vapi.vaders.tv/play/79459.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Batman The Animated Series
+http://vapi.vaders.tv/play/79440.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Big Bang Theory
+http://vapi.vaders.tv/play/79379.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Black Mirror
+http://vapi.vaders.tv/play/79380.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Breaking Bad
+http://vapi.vaders.tv/play/79374.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Doc McStuffins
+http://vapi.vaders.tv/play/79378.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Fairly Odd Parents
+http://vapi.vaders.tv/play/79446.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Friends
+http://vapi.vaders.tv/play/79392.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Fraiser
+http://vapi.vaders.tv/play/79381.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Game of Thrones
+http://vapi.vaders.tv/play/79382.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",24/7 - Grey's Anatomy
+http://vapi.vaders.tv/play/79391.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",360 North
