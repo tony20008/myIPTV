@@ -5,8 +5,8 @@ https://videos3.earthcam.com/fecnetwork/4369.flv/chunklist_w1829053652.m3u8
 https://videos3.earthcam.com/fecnetwork/4559.flv/chunklist_w849482889.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs CN Tower Cam - West View
 https://videos3.earthcam.com/fecnetwork/9298.flv/chunklist_w868503688.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs IPTV
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs Miami Airport
+http://atl10g-1.portfever.com/liveedge/macmux.stream/chunklist_w1553020449_tkUFRadGtlbmR0aW1lPTE1MzY1MjU1NjAmUFRadGtoYXNoPVRhNXRVT2d2akYybVlWOVdPZnVRdmlIM2dIdTdvS0JOSVRmdks5TGFacW89.m3u8
 #EXTINF:-1, CVMTV
 https://na-us-ne6.secdn.net/iddigital-channel/play/smil:output.smil/chunklist_w1647331980_b2000000_t64SEQ=.m3u8
 #EXTINF:0 tvg-id="AE.ca" group-title="USA",A&E
