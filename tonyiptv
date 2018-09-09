@@ -1,9 +1,4 @@
 #EXTM3U
-*** AutoIPTV ***
-https://autoiptv.net
-https://autoiptv.net
-*** Playlists ***
-https://autoiptv.net/playlists
 #EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs IPTV
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 #EXTINF:-1, CVMTV
@@ -46,11 +41,6 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-*** AutoIPTV ***
-https://autoiptv.net
-https://autoiptv.net
-*** Playlists ***
-https://autoiptv.net/playlists
 #EXTINF:0 tvg-id="BET.uk" group-title="USA",BET
 http://vapi.vaders.tv/play/8246.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
 #EXTINF:0 tvg-id="BTN.us" group-title="USA",Big Ten Network
