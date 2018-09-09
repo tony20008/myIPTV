@@ -110,8 +110,10 @@ https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 #EXTINF:0 tvg-id="CNBC.ca" group-title="USA",CNBC
 http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-1)
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+https://2202.janjuaplayer.com:8088/live/cnn_livestreaming/playlist.m3u8?id=71202&wowzasessionid=3388320812&pk=5c2d33e2b5e3afb493144209fb99b190f5301014e17bd335f2c0d616f2b4edc8
 #EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-3)
 http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
 #EXTINF:0 tvg-id="ext" group-title="USA",Combat Go
 http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
@@ -291,8 +293,6 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",News 24/7
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0 tvg-id="ext" group-title="USA",Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:0 tvg-id="NFLNetwork.ca" group-title="USA",NFL Network
 http://vapi.vaders.tv/play/2744.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
 #EXTINF:0 tvg-id="NFLNetwork.mx" group-title="USA",NFL Now
@@ -301,34 +301,8 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 http://vapi.vaders.tv/play/2786.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
 #EXTINF:0 tvg-id="Nickelodeon.ca" group-title="USA",Nickelodeon
 http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Nosey
-http://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Npowered TV
-https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Oprah Winfrey Network
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Orange Media Network
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:0 tvg-id="Oxygen.us" group-title="USA",Oxygen
-http://vapi.vaders.tv/play/40685.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",Pac-12 Arizona
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Pac-12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Pac-12 Los Angeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Pac-12 Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Pac-12 National
-http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Pac-12 Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Pac-12 Washington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",People TV
-http://stitcher.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=0&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0 tvg-id="PBS.uk" group-title="USA",PBS
 http://vapi.vaders.tv/play/2774.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
 #EXTINF:0 tvg-id="ext" group-title="USA",PBS Kids (Geo)
@@ -365,12 +339,6 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0 tvg-id="RussiaToday.uk" group-title="USA",RT America
 https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Runway TV
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Science Channel (Opt-1)
 http://80.80.160.168/live/9/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Science Channel (Opt-2)
@@ -383,8 +351,6 @@ https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0 tvg-id="Showtime.no" group-title="USA",Showtime
 http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Sidewalks
-http://30a-tv.com/sidewalks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Sky News America
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Sony Movie Channel (Opt-1)
@@ -393,12 +359,6 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Spydar TV
-https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="USA",SyFy
-http://vapi.vaders.tv/play/2458.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Tastemade
-https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index_7.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:0 tvg-id="24dok" group-title="USA",TBS
@@ -407,10 +367,6 @@ http://vapi.vaders.tv/play/2461.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3Iiwic
 http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",THC
 http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",The Asylum
-http://stitcher.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",TLC (Opt-1)
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",TLC (Opt-2)
