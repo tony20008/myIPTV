@@ -1,4 +1,9 @@
 #EXTM3U
+*** AutoIPTV ***
+https://autoiptv.net
+https://autoiptv.net
+*** Playlists ***
+https://autoiptv.net/playlists
 #EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs IPTV
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 #EXTINF:-1, CVMTV
