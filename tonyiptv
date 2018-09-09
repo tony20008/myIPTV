@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs niagarafalls
+https://www.earthcam.com/canada/niagarafalls/?cam=niagarafalls_str
 #EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs IPTV
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 #EXTINF:-1, CVMTV
