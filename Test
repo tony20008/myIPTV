@@ -73,6 +73,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0 tvg-id="CNBC.ca" group-title="USA",CNBC
 http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-1)
+https://5b8ec3e62bc9e.streamlock.net:4044/cnews/myStream//chunklist_w1954869188_tkc2VjZW5kdGltZT0xNTM2Njk2OTYwJnNlY2hhc2g9RzFuc2tqVVVsSENIMkYxeTNzUTJpWHcyVmNuRDN1by15TGtreEtrMkRjUT0mc2Vjc3RhcnR0aW1lPTE1MzY2OTI0NjA=.m3u8
 #EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-1)
