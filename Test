@@ -33,3 +33,83 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CANADA",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFO",CVMTV
+https://na-us-ne6.secdn.net/iddigital-channel/play/smil:output.smil/chunklist_w1647331980_b2000000_t64SEQ=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-1)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-2)
+http://vapi.vaders.tv/play/2435.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ABCNews.al" group-title="USA",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Action Movies
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",AMGTV
+rtmp://cp212391.live.edgefcs.net:1935/live/T02027-amgtv@120244
+#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-1)
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-2)
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-3)
+http://vapi.vaders.tv/play/2437.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="BTN.us" group-title="USA",Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="USA",Boomerang
+http://vapi.vaders.tv/play/79269.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",Cartoon Network (Dual)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS (Opt-1)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS News (Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic TV
+http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="CNBC.ca" group-title="USA",CNBC
+http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-1)
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-2)
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+#EXTINF:0 tvg-id="ext" group-title="USA",ESPN (Opt-1)
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",ESPN 2 (Opt-1)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="USA",ESPN 2 (Opt-2)
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="USA",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",HBO 2 (Dual)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Kids TV
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Movee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",NatureVision TV
+https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC (Opt-1)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC News
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:0 tvg-id="ext" group-title="USA",Oprah Winfrey Network
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+#EXTINF:0 tvg-id="Showtime.no" group-title="USA",Showtime
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Sony Movie Channel (Opt-1)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Sony Movie Channel (Opt-2)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0 tvg-id="ext" group-title="USA",THC
+http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",TLC (Opt-2)
+http://vapi.vaders.tv/play/2777.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
