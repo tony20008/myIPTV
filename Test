@@ -77,6 +77,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8
 https://5b8ec3e62bc9e.streamlock.net:4044/cnews/myStream//chunklist_w1954869188_tkc2VjZW5kdGltZT0xNTM2Njk2OTYwJnNlY2hhc2g9RzFuc2tqVVVsSENIMkYxeTNzUTJpWHcyVmNuRDN1by15TGtreEtrMkRjUT0mc2Vjc3RhcnR0aW1lPTE1MzY2OTI0NjA=.m3u8
 #EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-1)
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-2)
