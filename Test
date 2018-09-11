@@ -1,17 +1,55 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:212
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.010000,
-/hlsr/GUNZAxZeGl4QA1RSBwEHVFBWVAFSWQFXVFQDUA1SVAFVAAYHAAdcUAAVGxMVFxEEAF9vCwUaDQIGBFMaG0JBVBA+WAZHDBpVCw4VHUQXCgwEEApSTRpHWFESXxQLBgUDV0MdQABOTAFAWVZdOQcGFwhRVUBbVkJdWRxHWVdoVlQPAF8GRwwaVRAbFVgVE0FbQ3NTAQRUUkNURABSGXRdXwwEUhYMWVYXEn5ZUkhBT0MDW0QQAExSEw8SVgQOBRAdQAJeFwtCSh0QDRVyJ0FPQwRKRAcPS15eWxJfFFQERwlATRMLFmlKAUFDRVQHDgYTQwgSUkMUFVxUSDpVVllcVAEVWA0LRRpeEAYVHUQODA8IRl8QPkheVRcKRwUIBgcHQBw=/fazeel/fazeel/3346/f471a90f8ce801301d5d474f159b6305/3346_212.ts
-#EXTINF:10.010000,
-/hlsr/GUNZAxZeGl4QA1RSBwEHVFBWVAFSWQFXVFQDUA1SVAFVAAYHAAdcUAAVGxMVFxEEAF9vCwUaDQIGBFMaG0JBVBA+WAZHDBpVCw4VHUQXCgwEEApSTRpHWFESXxQLBgUDV0MdQABOTAFAWVZdOQcGFwhRVUBbVkJdWRxHWVdoVlQPAF8GRwwaVRAbFVgVE0FbQ3NTAQRUUkNURABSGXRdXwwEUhYMWVYXEn5ZUkhBT0MDW0QQAExSEw8SVgQOBRAdQAJeFwtCSh0QDRVyJ0FPQwRKRAcPS15eWxJfFFQERwlATRMLFmlKAUFDRVQHDgYTQwgSUkMUFVxUSDpVVllcVAEVWA0LRRpeEAYVHUQODA8IRl8QPkheVRcKRwUIBgcHQBw=/fazeel/fazeel/3346/566ab91385221844dd6a5b1b34dbc350/3346_213.ts
-#EXTINF:10.010000,
-/hlsr/GUNZAxZeGl4QA1RSBwEHVFBWVAFSWQFXVFQDUA1SVAFVAAYHAAdcUAAVGxMVFxEEAF9vCwUaDQIGBFMaG0JBVBA+WAZHDBpVCw4VHUQXCgwEEApSTRpHWFESXxQLBgUDV0MdQABOTAFAWVZdOQcGFwhRVUBbVkJdWRxHWVdoVlQPAF8GRwwaVRAbFVgVE0FbQ3NTAQRUUkNURABSGXRdXwwEUhYMWVYXEn5ZUkhBT0MDW0QQAExSEw8SVgQOBRAdQAJeFwtCSh0QDRVyJ0FPQwRKRAcPS15eWxJfFFQERwlATRMLFmlKAUFDRVQHDgYTQwgSUkMUFVxUSDpVVllcVAEVWA0LRRpeEAYVHUQODA8IRl8QPkheVRcKRwUIBgcHQBw=/fazeel/fazeel/3346/7ecaec894ce22fe3723da979d47419ba/3346_214.ts
-#EXTINF:10.010000,
-/hlsr/GUNZAxZeGl4QA1RSBwEHVFBWVAFSWQFXVFQDUA1SVAFVAAYHAAdcUAAVGxMVFxEEAF9vCwUaDQIGBFMaG0JBVBA+WAZHDBpVCw4VHUQXCgwEEApSTRpHWFESXxQLBgUDV0MdQABOTAFAWVZdOQcGFwhRVUBbVkJdWRxHWVdoVlQPAF8GRwwaVRAbFVgVE0FbQ3NTAQRUUkNURABSGXRdXwwEUhYMWVYXEn5ZUkhBT0MDW0QQAExSEw8SVgQOBRAdQAJeFwtCSh0QDRVyJ0FPQwRKRAcPS15eWxJfFFQERwlATRMLFmlKAUFDRVQHDgYTQwgSUkMUFVxUSDpVVllcVAEVWA0LRRpeEAYVHUQODA8IRl8QPkheVRcKRwUIBgcHQBw=/fazeel/fazeel/3346/461032faa08f25a51b51e6d0c071c259/3346_215.ts
-#EXTINF:10.010000,
-/hlsr/GUNZAxZeGl4QA1RSBwEHVFBWVAFSWQFXVFQDUA1SVAFVAAYHAAdcUAAVGxMVFxEEAF9vCwUaDQIGBFMaG0JBVBA+WAZHDBpVCw4VHUQXCgwEEApSTRpHWFESXxQLBgUDV0MdQABOTAFAWVZdOQcGFwhRVUBbVkJdWRxHWVdoVlQPAF8GRwwaVRAbFVgVE0FbQ3NTAQRUUkNURABSGXRdXwwEUhYMWVYXEn5ZUkhBT0MDW0QQAExSEw8SVgQOBRAdQAJeFwtCSh0QDRVyJ0FPQwRKRAcPS15eWxJfFFQERwlATRMLFmlKAUFDRVQHDgYTQwgSUkMUFVxUSDpVVllcVAEVWA0LRRpeEAYVHUQODA8IRl8QPkheVRcKRwUIBgcHQBw=/fazeel/fazeel/3346/bd685f86c6fb3a07e8bb86348758d83c/3346_216.ts
-#EXTINF:10.010000,
-/hlsr/GUNZAxZeGl4QA1RSBwEHVFBWVAFSWQFXVFQDUA1SVAFVAAYHAAdcUAAVGxMVFxEEAF9vCwUaDQIGBFMaG0JBVBA+WAZHDBpVCw4VHUQXCgwEEApSTRpHWFESXxQLBgUDV0MdQABOTAFAWVZdOQcGFwhRVUBbVkJdWRxHWVdoVlQPAF8GRwwaVRAbFVgVE0FbQ3NTAQRUUkNURABSGXRdXwwEUhYMWVYXEn5ZUkhBT0MDW0QQAExSEw8SVgQOBRAdQAJeFwtCSh0QDRVyJ0FPQwRKRAcPS15eWxJfFFQERwlATRMLFmlKAUFDRVQHDgYTQwgSUkMUFVxUSDpVVllcVAEVWA0LRRpeEAYVHUQODA8IRl8QPkheVRcKRwUIBgcHQBw=/fazeel/fazeel/3346/e8067dff82c5f2301c7051b96c839486/3346_217.ts
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",ABC | HD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11568.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",ABC | HD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11568.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",ABC 7 NEWS | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20457.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",ABC EAST | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",ABC EAST | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",ABC NEWS | HD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19387.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",ABC NEWS | HD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19387.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",BLOOMBERG | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11234.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CBN NEWS | SD (US)
+http://163.172.62.63:8000/live/fazeel/fazeel/1822.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CBN NEWS | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9468.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CBN NEWS | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9468.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CBS NEWS | SD (US)
+http://163.172.62.63:8000/live/fazeel/fazeel/1821.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CBSN NEWS | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9477.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CBSN NEWS | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9477.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CHANNEL 11 NEWS | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20469.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",FOX 23 NEWS | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7789.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",FOX 23 NEWS | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7789.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",FOX 25 NEWS | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20454.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",FOX 5 NEWS | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18882.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(WW) World Wide",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 tvg-id="ext" group-title="(WW) World Wide",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 tvg-id="ext" group-title="(WW) World Wide",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 tvg-id="ext" group-title="(WW) World Wide",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 tvg-id="ext" group-title="(WW) World Wide",CNN | SD (WW)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21186.m3u8
