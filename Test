@@ -117,3 +117,9 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0 tvg-id="ext" group-title="USA",TLC (Opt-2)
 http://vapi.vaders.tv/play/2777.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CINEMAX ACTION EAST | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2975.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CINEMAX ACTION | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2974.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",DISNEY XD WEST | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2968.m3u8
