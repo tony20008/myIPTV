@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="CANADA",CBC Television
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CBC News (VOD)
+#EXTINF:0 tvg-id="ext" group-title="CANADA(VOD)",CBC News
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CBC News Network (Geo)
+#EXTINF:0 tvg-id="ext" group-title="CANADA(Geo)",CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF:0 tvg-id="CPAC.ca" group-title="CANADA",CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
@@ -29,31 +29,31 @@ http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/profile_3/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INFO",CVMTV
 https://na-us-ne6.secdn.net/iddigital-channel/play/smil:output.smil/chunklist_w1647331980_b2000000_t64SEQ=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-1)
+#EXTINF:0 tvg-id="ext" group-title="USA(Opt-1)",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-2)
+#EXTINF:0 tvg-id="ext" group-title="USA(Opt-2)",ABC
 http://vapi.vaders.tv/play/2435.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
 #EXTINF:0 tvg-id="ABCNews.al" group-title="USA",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",AMGTV
 rtmp://cp212391.live.edgefcs.net:1935/live/T02027-amgtv@120244
-#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-1)
+#EXTINF:0 tvg-id="ext" group-title="USA(Opt-1)",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-2)
+#EXTINF:0 tvg-id="ext" group-title="USA(Opt-2)",Animal Planet
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-3)
+#EXTINF:0 tvg-id="ext" group-title="USA(Opt-3)",Animal Planet
 http://vapi.vaders.tv/play/2437.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
 #EXTINF:0 tvg-id="BTN.us" group-title="USA",Big Ten Network
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 tvg-id="ext" group-title="USA",Cartoon Network (Dual)
+#EXTINF:0 tvg-id="ext" group-title="USA (Dual)",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",CBS (Opt-1)
+#EXTINF:0 tvg-id="ext" group-title="USA(Opt-1)",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",CBS News (Opt-1)
+#EXTINF:0 tvg-id="ext" group-title="USA(Opt-1)",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",CBS News (Opt-2)
+#EXTINF:0 tvg-id="ext" group-title="USA(Opt-2)",CBS News
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Classic Movies
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -67,11 +67,11 @@ http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8
 https://5b8ec3e62bc9e.streamlock.net:4044/cnews/myStream//chunklist_w1954869188_tkc2VjZW5kdGltZT0xNTM2Njk2OTYwJnNlY2hhc2g9RzFuc2tqVVVsSENIMkYxeTNzUTJpWHcyVmNuRDN1by15TGtreEtrMkRjUT0mc2Vjc3RhcnR0aW1lPTE1MzY2OTI0NjA=.m3u8
 #EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-3*)
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA (opt-3)",CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",ESPN (Opt-1)
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",ESPN 2 (Opt-1)
+#EXTINF:0 tvg-id="ext" group-title="USA (Opt-1)",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="USA",ESPN 2 (Opt-2)
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
