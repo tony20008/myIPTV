@@ -19,12 +19,8 @@ http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 #EXTINF:0 tvg-id="SPACE.ca" group-title="CANADA",Space
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:0 tvg-id="TheShoppingChannel.ca" group-title="CANADA",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",NTV Newfoundland
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CA",CHCH
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/profile_3/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INFO",CVMTV
@@ -37,12 +33,6 @@ http://vapi.vaders.tv/play/2435.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3Iiwic
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",AMGTV
 rtmp://cp212391.live.edgefcs.net:1935/live/T02027-amgtv@120244
-#EXTINF:0 tvg-id="ext" group-title="USA(Opt-1)",Animal Planet
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA(Opt-2)",Animal Planet
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA(Opt-3)",Animal Planet
-http://vapi.vaders.tv/play/2437.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
 #EXTINF:0 tvg-id="BTN.us" group-title="USA",Big Ten Network
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Black Cinema
@@ -63,10 +53,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0 tvg-id="CNBC.ca" group-title="USA",CNBC
 http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-1)
-https://5b8ec3e62bc9e.streamlock.net:4044/cnews/myStream//chunklist_w1954869188_tkc2VjZW5kdGltZT0xNTM2Njk2OTYwJnNlY2hhc2g9RzFuc2tqVVVsSENIMkYxeTNzUTJpWHcyVmNuRDN1by15TGtreEtrMkRjUT0mc2Vjc3RhcnR0aW1lPTE1MzY2OTI0NjA=.m3u8
-#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="CNN.ca" group-title="USA (opt-3)",CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",ESPN (Opt-1)
@@ -99,12 +85,6 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:0 tvg-id="ext" group-title="USA",THC
 http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs Jamaica Rick's cafe
-https://videos3.earthcam.com/fecnetwork/4369.flv/chunklist_w1829053652.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs niagarafalls
-https://videos3.earthcam.com/fecnetwork/4559.flv/chunklist_w849482889.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INFO",* Mr.Gibbs CN Tower Cam - West View
-https://videos3.earthcam.com/fecnetwork/9298.flv/chunklist_w868503688.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",Flashback TV
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
 #EXTINF:0 tvg-id="FoxSports.tr" group-title="USA",Fox Sports
@@ -119,9 +99,3 @@ http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:0 tvg-id="ext" group-title="USA",[AS] Black Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FX Networks",FX Networks
-http://thebest.allgood.ws:25461/live/nick/nick/48307.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nickelodeon",Nickelodeon
-http://thebest.allgood.ws:25461/live/nick/nick/48337.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nick Jr",Nick Jr
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/18724.m3u8
