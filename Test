@@ -54,6 +54,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8
 #EXTINF:0 tvg-id="CNBC.ca" group-title="USA",CNBC
 http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0 tvg-id="CNN.ca" group-title="USA (opt-3)",CNN
+https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",ESPN (Opt-1)
 http://80.80.160.168/live/6/live.m3u8
